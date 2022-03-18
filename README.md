@@ -14,7 +14,7 @@ Among the things I learnt with this projects are:
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-[Link to deployed project](https://ah-django-todo-app.herokuapp.com/)
+[Link to deployed project](https://ah-codestar2022.herokuapp.com/)
 
 ![Screenshot](assets/images/django-blog-screenshot.png)
 
